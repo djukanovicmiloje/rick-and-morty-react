@@ -1,0 +1,32 @@
+#mainHeader {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1b2a49;
+    height: 80px;
+}
+
+#mainHeader h1{
+    color: #c9d1d3;
+    font-size: 40px;
+    line-height: 80px;
+    padding-left: 1em;
+}
+#mainHeader  button{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #c9d1d3;
+    font-size: 20px;
+    line-height: 80px;
+    font-weight: bold;
+    padding-left: 20px; 
+}
+#pageBtns button{
+    font-size: 40px;
+    line-height: 80px;
+    background: transparent;
+    border: none;
+    outline: none;
+    padding-right: 40px;
+    color: #c9d1d3;
+}

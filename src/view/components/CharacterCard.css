@@ -1,0 +1,18 @@
+.characterCard{
+    display: flex;    
+}
+.characterCardGrid{
+    flex-direction: column;
+    flex-basis: 32%;
+}
+.characterCardList{
+    flex-basis: 100%;
+    justify-content: space-between;
+}
+.characterCardList img {
+    width: 100px;
+    height: 100px;
+}
+.characterCardList h3 {
+    line-height: 100px;
+}
